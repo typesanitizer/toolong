@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "5875bf5eb3681403",
+    "type": "split",
+    "children": [
+      {
+        "id": "623c6b42150f1e7c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Toolong.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4a86782f6f359dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "724003a7a97f7c88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ca2d2ab81dd8c40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fad9d1548ae4705",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a11cddaf67d37da5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c8100e84f3638a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10778766f054bd12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Toolong.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "623c6b42150f1e7c",
+  "lastOpenFiles": [
+    "Toolong.md",
+    "discussion.md",
+    "comment selection.md"
+  ]
+}
